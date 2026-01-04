@@ -1,0 +1,5 @@
+{
+  "name": "WEBAPP HAPHAM",
+  "description": "Bảng điều khiển quản lý tài chính và cuộc sống cá nhân toàn diện. Tính năng theo dõi nợ, lưu trữ tài khoản an toàn, ghi chú lồng nhau và dấu trang trong môi trường bảo mật, ưu tiên cục bộ.",
+  "requestFramePermissions": []
+}
